@@ -1,4 +1,4 @@
-# Complete Data Engineering Pipeline Project Using Spotify API
+# Data Pipeline Project Using Spotify API
 
 This project demonstrates building a full ETL (Extract, Transform, Load) data pipeline that integrates with the Spotify API, extracts data, performs transformations, and sets up an analytics-ready environment using various AWS services like Lambda, S3, Glue, and Athena.
 
