@@ -66,7 +66,3 @@ The ETL pipeline architecture follows the classic **Extract, Transform, Load (ET
 - **Amazon S3**: For storing raw and processed data.
 - **AWS Glue**: For building data catalogs and crawling data files.
 - **Amazon Athena**: For querying and analyzing the stored data.
-
----
-
-This project exemplifies the use of AWS serverless technologies to automate the end-to-end data pipeline from extraction to analysis.
